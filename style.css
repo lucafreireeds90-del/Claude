@@ -118,3 +118,7 @@ img[src*="strogonoff"],img[src*="foto-bife"],img[src*="parmegiana"],img[src*="fr
 .rating .big{font:700 4.5rem/1 Fraunces,serif;color:var(--terra)}
 .rating p{margin-bottom:.8rem}
 .credits{font-size:.75rem;line-height:1.5}.credits a{color:#f6c453}
+.quote figcaption small{color:#6b5546}.rating .star{color:#d99a1f;font-size:.6em}
+.quotes+.rating{margin-top:2rem}.quote blockquote{font-size:1.02rem}
+.card img[src*="foto-drink"]{object-position:center 25%}
+.card img[src*="foto-queijo"]{object-position:center 45%}
